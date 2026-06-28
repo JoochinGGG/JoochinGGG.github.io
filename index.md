@@ -11,7 +11,7 @@ title: 首页
 
 ### AI 
 
-- [Agent 学习笔记](./agent.html)
+- [Agent 学习笔记](./agent/)
 
 ### 金融
 
